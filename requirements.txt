@@ -2,7 +2,6 @@ click
 colorama
 Flask
 itsdangerous
-Jinja2
 joblib
 MarkupSafe
 numpy
